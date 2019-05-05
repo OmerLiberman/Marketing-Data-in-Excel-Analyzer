@@ -1,0 +1,7 @@
+This script should receive one argument, which would be the input file path to analyze.
+The script should open the file, parse it and print the following information:
+The Total Installs and Total Cost
+
+The Total Installs and Total Cost for each Date using the next format: "%Y-%m-%d"
+
+The Total Installs and Total Cost for each App and Platform (iOS/Android)
